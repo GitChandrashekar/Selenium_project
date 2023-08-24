@@ -12,6 +12,7 @@ import com.google.common.io.Files;
 public class JS_Scroll {
 	public static void main(String[] args) throws IOException, InterruptedException
 	{
+		//Edit from the github//
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		
