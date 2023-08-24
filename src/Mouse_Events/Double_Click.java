@@ -19,7 +19,8 @@ public class Double_Click {
 	Actions Act_DD_Click = new Actions(driver);
 	WebElement DD_ele = driver.findElement(By.xpath("(//*[@class='RNmpXc'])[2]"));
 	Act_DD_Click.doubleClick(DD_ele).perform();
-	
+		
+	System.out.println("Changed from git");
 
 	}
 
