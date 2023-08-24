@@ -1,0 +1,15 @@
+name = chandhu
+
+browser = chrome
+
+ url = https://www.facebook.com//
+
+ username_path = //*[@id='email']
+ 
+ username = chandhu
+ 
+ pass_path = //*[@id='pass']
+ 
+ password = WPP@123
+ 
+ Eye_path : _9lsb _9ls8
